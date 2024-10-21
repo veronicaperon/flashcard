@@ -1,6 +1,6 @@
 
 body{
-    background-color: bisque;
+    background-color:url('bg-desktop.webp')
     }
     #container {
     display: flex;
