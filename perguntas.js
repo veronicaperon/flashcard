@@ -21,3 +21,16 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Programação',
+    'Qual a finalidade da variável em javascript?',
+    'Armazenar valores aleatórios a serem transcritos no html'
+)
+
+
+criaCartao(
+    'Programação',
+    'Qual a finalidade da variável em javascript?',
+    'Armazenar valores aleatórios a serem transcritos no html'
+)
